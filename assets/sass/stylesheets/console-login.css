@@ -1,0 +1,22 @@
+/*** Import setting ** */
+@Import compass;
+@Import base/variable;
+@Import base/mixin;
+@Import base/reset;
+@Import base/extend;
+@Import base/browser;
+/*  base setting  */
+/* line 10, ../sass/console-login.sass */
+html {
+  min-height: 100%;
+  overflow: auto;
+}
+
+/* line 13, ../sass/console-login.sass */
+body {
+  min-height: 100%;
+  margin: 0;
+  padding: 0;
+  background-color: #fff;
+  overflow: auto;
+}
